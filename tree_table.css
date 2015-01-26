@@ -1,0 +1,32 @@
+body{font: normal 11px auto "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; color: #4f6b72; background: #E6EAE9;}
+
+table{border-collapse:0;border-spacing:0px;border:solid black;border-width:1 0 0 1;} 
+     
+td{border:solid black;border-width:0 1 1 0;padding:5px;}
+
+div{padding-top:5px;margin:0px;}
+
+p{padding:0px,2px,0px,0px;margin:0px;}
+
+a{text-decoration:none;}
+
+a:hover{text-decoration:underline;}
+
+.td_content{font-size:16px;}
+
+.td_content a{color:black;}
+
+.status_image{padding-right:3px;}
+
+.service_red{color:#FF3333;}
+
+.service_yellow{color:#FFCC00;}
+
+.service_green{color:#339900;}
+
+.color_first{padding-left:5px;font-size:12px;}
+
+.color_else{padding-left:11px;font-size:12px;}
+
+.tips_content{padding:2px;background:#eee;color:#000;}
+

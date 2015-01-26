@@ -1,0 +1,370 @@
+[
+    {
+        "ip_address": "Level_1", 
+        "id": "Level_1", 
+        "width": 7, 
+        "status_image": "http://0.0.0.0/tvaname.g/status", 
+        "services":[],
+        "depth": 4, 
+        "children": [
+            {
+                "ip_address": "Level_2_1", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "id": "Level_2_1", 
+                "width": 5, 
+                "services":[
+                    {
+                        "current_time": 1387261841.999503, 
+                        "update_time": 1387261718.11134, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_relay" 
+                    },{
+                        "current_time": 1387261841.999508, 
+                        "update_time": 1387261718.127677, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_idnagen" 
+                    }    
+                ],
+                "depth": 3, 
+                "children": [
+                    {
+                        "ip_address": "Level_3_1", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "id": "Level_3_1", 
+                        "width": 1, 
+                        "services":[
+                            {
+                                "current_time": 1387268841.999503, 
+                                "update_time": 1387261718.11134, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_relay" 
+                            },{
+                                "current_time": 1387263841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g2_idnagen" 
+                            },{
+                                "current_time": 1387261841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_idnagen" 
+                            }    
+                        ],
+                        "children": [], 
+                        "depth": 1
+                    },
+                    {
+                        "ip_address": "Level_3_2", 
+                        "id": "Level_3_2", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width":3, 
+                        "services":[],
+                        "depth":2, 
+                        "children": [
+                            {
+                                "ip_address": "Level_4_1", 
+                                "id": "Level_4_1", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            },
+                            {
+                                "ip_address": "Level_4_2", 
+                                "id": "Level_4_2", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }, 
+                            {
+                                "ip_address": "Level_4_3", 
+                                "id": "Level_4_3", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }
+                        ]
+                    }, 
+                    {
+                        "ip_address": "Level_3_3", 
+                        "id": "Level_3_3", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width": 1, 
+                        "services":[],
+                        "children": [], 
+                        "depth": 1
+                    }
+                ]
+            },
+            {
+                "ip_address": "Level_2_2", 
+                "id": "Level_2_2", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }, 
+            {
+                "ip_address": "Level_2_3", 
+                "id": "Level_2_3", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }
+        ]
+    },
+
+    {
+        "ip_address": "Level_1", 
+        "id": "Level_1", 
+        "width": 7, 
+        "status_image": "http://0.0.0.0/tvaname.g/status", 
+        "services":[],
+        "depth": 4, 
+        "children": [
+            {
+                "ip_address": "Level_2_1", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "id": "Level_2_1", 
+                "width": 5, 
+                "services":[
+                    {
+                        "current_time": 1387261841.999503, 
+                        "update_time": 1387261718.11134, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_relay" 
+                    },{
+                        "current_time": 1387261841.999508, 
+                        "update_time": 1387261718.127677, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_idnagen" 
+                    }    
+                ],
+                "depth": 3, 
+                "children": [
+                    {
+                        "ip_address": "Level_3_1", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "id": "Level_3_1", 
+                        "width": 1, 
+                        "services":[
+                            {
+                                "current_time": 1387268841.999503, 
+                                "update_time": 1387261718.11134, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_relay" 
+                            },{
+                                "current_time": 1387263841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g2_idnagen" 
+                            },{
+                                "current_time": 1387261841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_idnagen" 
+                            }    
+                        ],
+                        "children": [], 
+                        "depth": 1
+                    },
+                    {
+                        "ip_address": "Level_3_2", 
+                        "id": "Level_3_2", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width":3, 
+                        "services":[],
+                        "depth":2, 
+                        "children": [
+                            {
+                                "ip_address": "Level_4_1", 
+                                "id": "Level_4_1", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            },
+                            {
+                                "ip_address": "Level_4_2", 
+                                "id": "Level_4_2", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }, 
+                            {
+                                "ip_address": "Level_4_3", 
+                                "id": "Level_4_3", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }
+                        ]
+                    }, 
+                    {
+                        "ip_address": "Level_3_3", 
+                        "id": "Level_3_3", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width": 1, 
+                        "services":[],
+                        "children": [], 
+                        "depth": 1
+                    }
+                ]
+            },
+            {
+                "ip_address": "Level_2_2", 
+                "id": "Level_2_2", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }, 
+            {
+                "ip_address": "Level_2_3", 
+                "id": "Level_2_3", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }
+        ]
+    },
+
+    {
+        "ip_address": "Level_1", 
+        "id": "Level_1", 
+        "width": 7, 
+        "status_image": "http://0.0.0.0/tvaname.g/status", 
+        "services":[],
+        "depth": 4, 
+        "children": [
+            {
+                "ip_address": "Level_2_1", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "id": "Level_2_1", 
+                "width": 5, 
+                "services":[
+                    {
+                        "current_time": 1387261841.999503, 
+                        "update_time": 1387261718.11134, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_relay" 
+                    },{
+                        "current_time": 1387261841.999508, 
+                        "update_time": 1387261718.127677, 
+                        "type": "collector", 
+                        "name": "tvaname.g1_idnagen" 
+                    }    
+                ],
+                "depth": 3, 
+                "children": [
+                    {
+                        "ip_address": "Level_3_1", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "id": "Level_3_1", 
+                        "width": 1, 
+                        "services":[
+                            {
+                                "current_time": 1387268841.999503, 
+                                "update_time": 1387261718.11134, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_relay" 
+                            },{
+                                "current_time": 1387263841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g2_idnagen" 
+                            },{
+                                "current_time": 1387261841.999508, 
+                                "update_time": 1387261718.127677, 
+                                "type": "collector", 
+                                "name": "tvaname.g1_idnagen" 
+                            }    
+                        ],
+                        "children": [], 
+                        "depth": 1
+                    },
+                    {
+                        "ip_address": "Level_3_2", 
+                        "id": "Level_3_2", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width":3, 
+                        "services":[],
+                        "depth":2, 
+                        "children": [
+                            {
+                                "ip_address": "Level_4_1", 
+                                "id": "Level_4_1", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            },
+                            {
+                                "ip_address": "Level_4_2", 
+                                "id": "Level_4_2", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }, 
+                            {
+                                "ip_address": "Level_4_3", 
+                                "id": "Level_4_3", 
+                                "width": 1, 
+                                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                                "services":[],
+                                "children": [], 
+                                "depth": 1
+                            }
+                        ]
+                    }, 
+                    {
+                        "ip_address": "Level_3_3", 
+                        "id": "Level_3_3", 
+                        "status_image": "http://0.0.0.0/tvaname.g/status", 
+                        "width": 1, 
+                        "services":[],
+                        "children": [], 
+                        "depth": 1
+                    }
+                ]
+            },
+            {
+                "ip_address": "Level_2_2", 
+                "id": "Level_2_2", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }, 
+            {
+                "ip_address": "Level_2_3", 
+                "id": "Level_2_3", 
+                "status_image": "http://0.0.0.0/tvaname.g/status", 
+                "width": 1, 
+                "services":[],
+                "children": [], 
+                "depth": 1
+            }
+        ]
+    }
+]
