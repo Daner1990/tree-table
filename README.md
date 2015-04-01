@@ -1,5 +1,6 @@
 # tree-table
 
+<<<<<<< HEAD
 1.输入
     git clone YourHTTPGitAddress
     你在github中存放该项目的地址
@@ -15,3 +16,6 @@
     此时会要求你输入你的github的账号和密码。
 
 
+=======
+JSON动态生成树
+>>>>>>> b909cb85e94f2fc2f139796a6a26f871214229b6
